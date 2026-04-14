@@ -7,13 +7,10 @@ No external dependencies. Just logic, color, and clarity.
 
 ## Usage
 
-```bash
 python checker.py
-```
 
 ## Output preview
 
-```
 DARK PASSWORD CHECKER v1.0
 Your password is only as strong as your mindset.
 
